@@ -1,5 +1,8 @@
 # coloRandom
 
+## Live deployed site:  
+[https://tdmanning.github.io/coloRandomSite/](https://tdmanning.github.io/coloRandomSite/)
+
 ### 🎨 Abstract:
 [//]: <> This project presents a web-based platform that generates unique color palettes, empowering users to customize  harmonious color combinations. Inspired by popular platforms like Coolors, our site offers an interactive experience where users are presented with a selection of randomized colors. Users can browse, save, and "lock" their perferred colors, ensuring they are retained in subsequesnt palette generations. This innovative tool is a resource for designers, artists or anyone seeking a platform for creating dynamic palette generation. 
 
@@ -26,9 +29,8 @@ Challenges:
 - We had a problem trying to lock all the colors but we could only lock the first box. After taking a break and coming back we were able to find the solution. 
 - The saved color palette section required extensive trial and error to ensure its correct appearance.
 
-### 👏🏽 Credits:
-[//]: <> 
-Terra Manning https://github.com/TDManning
-Charles T. Banks Jr. https://github.com/DRIF7ER
-Ryan O'Leary https://github.com/ROlearyPro
-Zalalem Fitru https://github.com/ZTFitru
+### 👏🏽 Contributors:
+- **Terra Manning**: [GitHub Profile](https://github.com/TDManning)
+- **Charles T. Banks Jr.**: [GitHub Profile](https://github.com/DRIF7ER)
+- **Ryan O'Leary**: [GitHub Profile](https://github.com/ROlearyPro)
+- **Zalalem Fitru**: [GitHub Profile](https://github.com/ZTFitru)
